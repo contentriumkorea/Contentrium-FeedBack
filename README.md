@@ -2,7 +2,7 @@
 
 <h1 align="center">Contentrium FeedBack</h1>
 <p align="center"><strong>영상을 멈추고 적으면, 그 순간이 함께 기록됩니다.</strong><br>영상 수정 요청을 시점별로 정리하고 Codex에 전달하는 Windows 프로그램입니다.</p>
-<p align="center"><a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest"><img src="assets/version.svg" alt="Release 0.1.1"></a> <img src="assets/windows.svg" alt="Windows x64"> <img src="assets/local.svg" alt="Local video"></p>
+<p align="center"><a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest"><img src="assets/version.svg" alt="Release 0.1.2"></a> <img src="assets/windows.svg" alt="Windows x64"> <img src="assets/local.svg" alt="Local video"></p>
 <p align="center"><a href="#빠르게-시작하기">설치하기</a> · <a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest">다운로드</a> · <a href="#사용-모습">사용 모습</a> · <a href="#적용-범위와-제한">상세 안내</a></p>
 
 ---
