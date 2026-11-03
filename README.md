@@ -2,7 +2,7 @@
 
 <h1 align="center">Contentrium FeedBack</h1>
 <p align="center"><strong>영상을 멈추고 적으면, 그 순간이 함께 기록됩니다.</strong><br>영상 수정 요청을 시점별로 정리하고 Codex에 전달하는 Windows 프로그램입니다.</p>
-<p align="center"><a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest"><img src="assets/version.svg" alt="Release 0.1.0"></a> <img src="assets/windows.svg" alt="Windows x64"> <img src="assets/local.svg" alt="Local video"></p>
+<p align="center"><a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest"><img src="assets/version.svg" alt="Release 0.1.1"></a> <img src="assets/windows.svg" alt="Windows x64"> <img src="assets/local.svg" alt="Local video"></p>
 <p align="center"><a href="#빠르게-시작하기">설치하기</a> · <a href="https://github.com/contentriumkorea/Contentrium-FeedBack/releases/latest">다운로드</a> · <a href="#사용-모습">사용 모습</a> · <a href="#적용-범위와-제한">상세 안내</a></p>
 
 ---
@@ -19,7 +19,7 @@ Windows 64비트와 Microsoft Edge WebView2가 필요합니다. 설치기는 최
 | 01 · 영상 보기 | 02 · 수정 내용 기록 | 03 · 파일로 전달 |
 | :--- | :--- | :--- |
 | **익숙한 재생 조작** | **시간이 자동으로 기록** | **Codex에 첨부** |
-| 스페이스바와 방향키로 재생 위치를 조절합니다. | 입력란에 쓰기 시작한 장면의 시각과 내용을 함께 남깁니다. | 시점별 내용이 정리된 텍스트 파일을 만듭니다. |
+| 스페이스바와 방향키로 재생 위치를 조절합니다. | 재생바 아래에 적으면 해당 장면의 시각과 내용을 함께 남깁니다. | 시점별 내용이 정리된 텍스트 파일을 만듭니다. |
 
 ## 사용 모습
 
@@ -27,7 +27,7 @@ Windows 64비트와 Microsoft Edge WebView2가 필요합니다. 설치기는 최
 
 **영상과 피드백을 한 화면에서 확인합니다.**
 
-선택한 영상은 원래 위치에 남고, 피드백 시간을 누르면 해당 장면으로 이동합니다.
+재생바에서 구간별 썸네일과 피드백 시점을 확인할 수 있습니다. 오른쪽에서 피드백 시간을 누르면 해당 장면으로 이동합니다.
 
 <details><summary><strong>단축키 보기</strong></summary>
 
